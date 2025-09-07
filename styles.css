@@ -39,6 +39,7 @@ html {
     font-size: 18px;
     cursor: pointer;
     font-family: "Kalam", sans-serif;
+    text-decoration: none;
 }
 
 .navbar ul li a {
