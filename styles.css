@@ -44,6 +44,7 @@ html {
 
 .navbar ul li a {
     text-decoration: none;
+    color: black;
     outline: none;
     padding-left: 1rem;
     padding-right: 1rem;
