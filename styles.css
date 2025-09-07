@@ -50,9 +50,11 @@ html {
     padding-right: 1rem;
 }
 
+.navbar ul li a:link,
 .navbar ul li a:visited {
     color: #000000;
 }
+
 
 .navbar ul li a:hover {
     color: #ffffff;
