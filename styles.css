@@ -19,12 +19,17 @@ html {
     top: 0;
 }
 
-@media (max-width: 1024px) {
+@media (min-width: 360px) and (max-width: 1024px) {
     .header {
         flex-direction: column;
         align-items: center;
         text-align: center;
-        gap: 10px;
+        position: static;
+    }
+
+    .navbar ul {
+        flex-direction: column;
+        gap: 0rem;
     }
 }
 
